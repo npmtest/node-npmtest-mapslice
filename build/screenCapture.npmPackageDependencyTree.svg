@@ -1,0 +1,76 @@
+<svg height="1166" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1166" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">12 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ mapslice@1.3.0 </tspan>
+<tspan x="10" y="90">  ├─┬ async@2.3.0 </tspan>
+<tspan x="10" y="106">  │ └── lodash@4.17.4 </tspan>
+<tspan x="10" y="122">  ├─┬ gm@1.23.0 </tspan>
+<tspan x="10" y="138">  │ ├── array-parallel@0.1.3 </tspan>
+<tspan x="10" y="154">  │ ├── array-series@0.1.5 </tspan>
+<tspan x="10" y="170">  │ ├─┬ cross-spawn@4.0.2 </tspan>
+<tspan x="10" y="186">  │ │ ├─┬ lru-cache@4.0.2 </tspan>
+<tspan x="10" y="202">  │ │ │ ├── pseudomap@1.0.2 </tspan>
+<tspan x="10" y="218">  │ │ │ └── yallist@2.1.2 </tspan>
+<tspan x="10" y="234">  │ │ └─┬ which@1.2.14 </tspan>
+<tspan x="10" y="250">  │ │   └── isexe@2.0.0 </tspan>
+<tspan x="10" y="266">  │ └─┬ debug@2.2.0 </tspan>
+<tspan x="10" y="282">  │   └── ms@0.7.1 </tspan>
+<tspan x="10" y="298">  ├─┬ joi@9.2.0 </tspan>
+<tspan x="10" y="314">  │ ├── hoek@4.1.1 </tspan>
+<tspan x="10" y="330">  │ ├── isemail@2.2.1 </tspan>
+<tspan x="10" y="346">  │ ├── items@2.1.1 </tspan>
+<tspan x="10" y="362">  │ ├── moment@2.18.1 </tspan>
+<tspan x="10" y="378">  │ └── topo@2.0.2 </tspan>
+<tspan x="10" y="394">  ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="410">  │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="426">  ├── string@3.3.3 </tspan>
+<tspan x="10" y="442">  └─┬ yargs@6.6.0 </tspan>
+<tspan x="10" y="458">    ├── camelcase@3.0.0 </tspan>
+<tspan x="10" y="474">    ├─┬ cliui@3.2.0 </tspan>
+<tspan x="10" y="490">    │ ├─┬ strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="506">    │ │ └── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="522">    │ └── wrap-ansi@2.1.0 </tspan>
+<tspan x="10" y="538">    ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="554">    ├── get-caller-file@1.0.2 </tspan>
+<tspan x="10" y="570">    ├─┬ os-locale@1.4.0 </tspan>
+<tspan x="10" y="586">    │ └─┬ lcid@1.0.0 </tspan>
+<tspan x="10" y="602">    │   └── invert-kv@1.0.0 </tspan>
+<tspan x="10" y="618">    ├─┬ read-pkg-up@1.0.1 </tspan>
+<tspan x="10" y="634">    │ ├─┬ find-up@1.1.2 </tspan>
+<tspan x="10" y="650">    │ │ ├── path-exists@2.1.0 </tspan>
+<tspan x="10" y="666">    │ │ └─┬ pinkie-promise@2.0.1 </tspan>
+<tspan x="10" y="682">    │ │   └── pinkie@2.0.4 </tspan>
+<tspan x="10" y="698">    │ └─┬ read-pkg@1.1.0 </tspan>
+<tspan x="10" y="714">    │   ├─┬ load-json-file@1.1.0 </tspan>
+<tspan x="10" y="730">    │   │ ├── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="746">    │   │ ├─┬ parse-json@2.2.0 </tspan>
+<tspan x="10" y="762">    │   │ │ └─┬ error-ex@1.3.1 </tspan>
+<tspan x="10" y="778">    │   │ │   └── is-arrayish@0.2.1 </tspan>
+<tspan x="10" y="794">    │   │ ├── pify@2.3.0 </tspan>
+<tspan x="10" y="810">    │   │ └─┬ strip-bom@2.0.0 </tspan>
+<tspan x="10" y="826">    │   │   └── is-utf8@0.2.1 </tspan>
+<tspan x="10" y="842">    │   ├─┬ normalize-package-data@2.3.8 </tspan>
+<tspan x="10" y="858">    │   │ ├── hosted-git-info@2.4.2 </tspan>
+<tspan x="10" y="874">    │   │ ├─┬ is-builtin-module@1.0.0 </tspan>
+<tspan x="10" y="890">    │   │ │ └── builtin-modules@1.1.1 </tspan>
+<tspan x="10" y="906">    │   │ ├── semver@5.3.0 </tspan>
+<tspan x="10" y="922">    │   │ └─┬ validate-npm-package-license@3.0.1 </tspan>
+<tspan x="10" y="938">    │   │   ├─┬ spdx-correct@1.0.2 </tspan>
+<tspan x="10" y="954">    │   │   │ └── spdx-license-ids@1.2.2 </tspan>
+<tspan x="10" y="970">    │   │   └── spdx-expression-parse@1.0.4 </tspan>
+<tspan x="10" y="986">    │   └── path-type@1.1.0 </tspan>
+<tspan x="10" y="1002">    ├── require-directory@2.1.1 </tspan>
+<tspan x="10" y="1018">    ├── require-main-filename@1.0.1 </tspan>
+<tspan x="10" y="1034">    ├── set-blocking@2.0.0 </tspan>
+<tspan x="10" y="1050">    ├─┬ string-width@1.0.2 </tspan>
+<tspan x="10" y="1066">    │ ├── code-point-at@1.1.0 </tspan>
+<tspan x="10" y="1082">    │ └─┬ is-fullwidth-code-point@1.0.0 </tspan>
+<tspan x="10" y="1098">    │   └── number-is-nan@1.0.1 </tspan>
+<tspan x="10" y="1114">    ├── which-module@1.0.0 </tspan>
+<tspan x="10" y="1130">    ├── y18n@3.2.1 </tspan>
+<tspan x="10" y="1146">    └── yargs-parser@4.2.1</tspan>
+</text>
+</svg>
